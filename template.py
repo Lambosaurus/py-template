@@ -1,4 +1,8 @@
 #!/usr/bin/python
+
+# Source:
+# https://github.com/Lambosaurus/py-template.git
+
 import sys
 
 def format(result):
